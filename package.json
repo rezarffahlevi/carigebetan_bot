@@ -1,0 +1,22 @@
+{
+  "name": "temanbercerita_bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ABC",
+    "Absen"
+  ],
+  "author": "Hi Rent",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "base-64": "^0.1.0",
+    "moment": "^2.24.0",
+    "mongoose": "^5.10.2",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}

@@ -1,13 +1,13 @@
 const { Model } = require("mongoose");
 
 const TOKEN = {
-    cariGebetan: '1325888403:AAFrb_xKg8OMrKQfbSVBkSnwzWeNEv4MHnc',
-    temanCerita: '1309684135:AAG5mHGkl_0NoLMIuU3anmzYMdPAtqsLlfY',
+    cariGebetan: 'YOUR_TOKEN',
+    temanCerita: 'YOUR_TOKEN',
 };
 
 const DB_URL = {
-  cariGebetan: 'mongodb://localhost/cari_gebetan',
-  teman_bercerita: 'mongodb://localhost/teman_bercerita'
+  cariGebetan: 'YOUR_MONGO_DB_URL',
+  teman_bercerita: 'YOUR_MONGO_DB_URL'
 }
 
 const tempId = {
